@@ -2,14 +2,14 @@
 
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="70%">
       <h1>Haojie Shi</h1>
       <p><b>Senior Student</b></p>
       <p><b>Harbin Institute of Technology, School of Honor</b></p>
       <p><b>Email: haojieshi_stone@outlook.com / haojieshi98@gmail.com</b></p>
     </td>
-    <td width="25%">
-      <img src="/selfphoto.jpg" width="100%">      % 插入证件照代码
+    <td width="30%">
+      <img src="/selfphoto.jpg" width="100%">
     </td>
   </tr>
 </table>
