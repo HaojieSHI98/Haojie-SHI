@@ -13,7 +13,7 @@
     </td>
   </tr>
 </table>
-
+![img](https://github.com/HaojieSHI98/Haojie-SHI/blob/master/selfphoto.jpg)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
