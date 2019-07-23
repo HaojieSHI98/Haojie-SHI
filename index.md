@@ -9,7 +9,7 @@
       <p><b>Email: haojieshi_stone@outlook.com / haojieshi98@gmail.com</b></p>
     </td>
     <td width="30%">
-      <img src="/selfphoto.jpg" width="100%">
+      <img src="/photo1.jpg" width="100%">
     </td>
   </tr>
 </table>
