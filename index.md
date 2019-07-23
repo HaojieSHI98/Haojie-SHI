@@ -4,7 +4,7 @@
   <tr>
     <td width="70%">
       <h1>Haojie Shi</h1>
-      <p><b>Senior Student</b></p>
+      <p><b>Senior Student Major in Automation</b></p>
       <p><b>Harbin Institute of Technology, School of Honor</b></p>
       <p><b>Email: haojieshi_stone@outlook.com / haojieshi98@gmail.com</b></p>
     </td>
