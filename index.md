@@ -1,8 +1,18 @@
-## Welcome to GitHub Pages
+## General Introduction
 
-You can use the [editor on GitHub](https://github.com/HaojieSHI98/Haojie-SHI/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Haojie Shi</h1>
+      <p><b>Senior Student</b></p>
+      <p><b>Harbin Institute of Technology, School of Honor</b></p>
+      <p><b>Email: haojieshi_stone@outlook.com / haojieshi98@gmail.com</b></p>
+    </td>
+    <td width="25%">
+      <img src="/selfphoto.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 
 ### Markdown
 
