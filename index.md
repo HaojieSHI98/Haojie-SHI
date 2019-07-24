@@ -9,7 +9,7 @@
       <p><b>Email: haojieshi_stone@outlook.com / haojieshi98@gmail.com</b></p>
     </td>
     <td width="30%">
-      <img src="/photo1.jpg">
+      <img src="/selfphoto.jpg">
     </td>
   </tr>
 </table>
@@ -17,7 +17,6 @@
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-![Image](https://github.com/HaojieSHI98/Haojie-SHI/blob/master/selfphoto.jpg)
 ```markdown
 Syntax highlighted code block
 
